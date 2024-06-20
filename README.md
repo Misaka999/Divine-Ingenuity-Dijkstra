@@ -1,5 +1,6 @@
 # Divine-Ingenuity-Dijkstra
-Practice of Dijkstra algorithm
+Practice of Dijkstra algorithm.
+
 2023 Fall CSC3100 Assignment 4 
 
 # Description
